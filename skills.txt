@@ -1,2 +1,4 @@
 jenkins
 git
+docker
+ansible
